@@ -1,4 +1,4 @@
-## 👋 Hi there, I’m Herman Liang!
+## 👋 Hi there, I’m Herman!
 
 🚀 Full Stack Developer | 🧠 AI Enthusiast | 📍 Based in Halifax, Canada
 
