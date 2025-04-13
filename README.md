@@ -1,7 +1,6 @@
 ## 👋 Hi there, I’m Herman Liang!
 
-🚀 Full Stack Developer | 🧠 AI Enthusiast 
-📍 Based in Halifax, Canada | MSc in Computer Science @ Warwick
+🚀 Full Stack Developer | 🧠 AI Enthusiast | 📍 Based in Halifax, Canada
 
 ---
 
