@@ -61,3 +61,25 @@ Please visit [https://hermanyiqunliang.com](https://hermanyiqunliang.com) to vie
 
 > “Build what matters. Break what needs fixing. Learn endlessly.” — Herman
 
+---
+
+## 🕰️ My Tech Journey
+
+- **2002** — Born in **China**
+- **2015** — Built my first web scraper in Python (using BeautifulSoup) in junior high
+- **2016 – 2019** — Studied at **Sino-Canadian Program, Shenyang No.2 High School**  
+  - Created a **Python GUI seat selection app** for automatic rotation
+- **2019 – 2023** — BSc in Computer Science, **Dalhousie University**  
+  - **2020** — Built my first **PHP-based web application**
+  - **2022 (Jan – May)** — Exchange at **City University of Hong Kong**, focusing on **Data Science**  
+    - Developed an **award-winning PPT comment app** in PHP  
+    - Built my first **Angular-based web app** for coursework
+  - **2023** — Led a team to create a **Next.js MERN stack final-year project**
+- **2023 – 2024** — MSc in Computer Science, **University of Warwick**
+- **Feb 2024** — Led 1Way team to build a **Flutter + NestJS-based taxi platform**
+- **May 2024** — Released:
+  - An **Electron-based End-to-End Encryption app** for WeChat  
+  - A **Java-based E2EE keyboard mobile app**
+- **Feb 2025** — Built my first **Rust + Solana/Koii decentralized app**
+
+**...The journey continues. 🚀**
