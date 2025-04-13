@@ -1,16 +1,61 @@
-## Hi there 👋
+## 👋 Hi there, I’m Herman Liang!
 
-<!--
-**HermanL02/HermanL02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | 🧠 AI Enthusiast 
+📍 Based in Halifax, Canada | MSc in Computer Science @ Warwick
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I’m working on:
+- 🧠 Building **AI-assisted coding tools**
+- 🧪 Creating reliable **DevOps pipelines** for secure delivery
+- 🌍 Developing **decentralized apps**
+
+
+---
+
+### 🌱 Currently learning:
+- 🛠️ **Rust** for blazing-fast backend systems
+- ☁️ Cloud-native DevOps with **Docker** + **Kubernetes**
+- 🔐 Security engineering for scalable systems
+
+---
+
+### 💼 Experience Highlights:
+- 🪙 **Koii Network**: Optimized wallet performance, built P2P dApps, led CI/CD enhancements
+- 🏗️ **1 Way Technologies**: Fullstack development using Nest.js + Flutter
+- 👷‍♂️ **ALM Construction**: Built WeChat HR mini-program for 300+ employees
+
+---
+
+### 📚 Education:
+🎓 MSc Computer Science, **University of Warwick**  
+🎓 BSc Computer Science, **Dalhousie University**
+🎓 Exchange Student, **City University of Hong Kong** 
+
+---
+
+### 🧰 Tech Stack:
+**Languages**: JavaScript, Python, Go, Dart, Java  
+**Frontend**: React, Flutter, Tailwind CSS  
+**Backend**: Node.js, Nest.js, GraphQL, REST  
+**DevOps**: Docker, Kubernetes, GitLab CI/CD, AWS, Azure  
+**Database**: MongoDB, MySQL  
+**Testing**: Jest, Postman
+
+---
+
+### ✨ Fun Facts:
+- 💬 Fluent in Mandarin & English  
+- 🕹️ Gamer at heart: Valorant  
+- 🔍 Obsessed with debugging & clean code
+
+---
+
+### 📫 Get in touch:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liang-yiqun/)  
+📬 Email: [Hermanyiqunliang@gmail.com](mailto:Hermanyiqunliang@gmail.com)
+
+---
+
+> “Build what matters. Break what needs fixing. Learn endlessly.” — Herman
+
