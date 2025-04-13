@@ -30,7 +30,7 @@ Please visit [https://hermanyiqunliang.com](https://hermanyiqunliang.com) to vie
 
 ### 📚 Education:
 🎓 MSc Computer Science, **University of Warwick**  
-🎓 BSc Computer Science, **Dalhousie University**
+🎓 BSc Computer Science, **Dalhousie University**   
 🎓 Exchange Student, **City University of Hong Kong** 
 
 ---
