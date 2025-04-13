@@ -74,8 +74,9 @@ Please visit [https://hermanyiqunliang.com](https://hermanyiqunliang.com) to vie
   - **2022 (Jan – May)** — Exchange at **City University of Hong Kong**, focusing on **Data Science**  
     - Developed an **award-winning PPT comment app** in PHP  
   - **Sep 2022**  — Built my first **Angular-based web app** for coursework
-  - **2023** — Led a team to create a **Next.js MERN stack final-year project**
+  - **2023** — Work with team to create a **Next.js MERN stack final-year project**
 - **2023 – 2024** — MSc in Computer Science, **University of Warwick**
+- **Dec 2023** — Retrieved Azure Cloud Certificate
 - **Feb 2024** — Led 1Way team to build a **Flutter + NestJS-based taxi platform**
 - **May 2024** — Released:
   - An **Electron-based End-to-End Encryption app** for WeChat  
