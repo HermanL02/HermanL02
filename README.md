@@ -1,6 +1,7 @@
 ## 👋 Hi there, I’m Herman Liang!
 
 🚀 Full Stack Developer | 🧠 AI Enthusiast | 📍 Based in Halifax, Canada
+Please visit [https://hermanyiqunliang.com](https://hermanyiqunliang.com) to view my projects. 
 
 ---
 
@@ -52,7 +53,6 @@
 
 ### 📫 Get in touch:
 📬 Email: Hermanyiqunliang@gmail.com
-🌐 Website: [https://hermanyiqunliang.com](https://hermanyiqunliang.com)
 🔗 LinkedIn: [https://www.linkedin.com/in/liang-yiqun/](https://www.linkedin.com/in/liang-yiqun/)  
 
 
