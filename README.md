@@ -39,6 +39,7 @@
 ## 💼 Experience Highlights
 
 ### 🌟 Self Employed
+*May 2025 - Present*
 
 Building cross-border Administrative Order Management System for GSuite Properties
 
@@ -51,6 +52,7 @@ Building cross-border Administrative Order Management System for GSuite Properti
 ---
 
 ### 🤖 **TRIBE Inc** (Prometheus Swarm) - Founding AI Engineer
+*Apr 2025 - Jun 2025*
 
 Core team member developing workflow-based decentralized AI tools
 
@@ -62,6 +64,7 @@ Core team member developing workflow-based decentralized AI tools
 ---
 
 ### 🪙 **Koii Network** - R&D Developer
+*Mar 2024 - Jun 2025*
 
 Research and Development + Software Development roles in blockchain ecosystem
 
@@ -77,6 +80,7 @@ Research and Development + Software Development roles in blockchain ecosystem
 ---
 
 ### 🏗️ **Shenyang Ailemeng Construction Group** - Full-stack Developer
+*May 2023 - Feb 2025*
 
 Led talent management system development and coordination role
 
@@ -91,6 +95,7 @@ Led talent management system development and coordination role
 ---
 
 ### 🚗 **1 Way Technologies Inc** (Wewoo) - Software Developer
+*Feb 2024 - May 2024*
 
 Internship developing Flutter-based transportation applications
 
@@ -102,6 +107,7 @@ Internship developing Flutter-based transportation applications
 ---
 
 ### 📚 **Programming Tutor** (Self-employed)
+*May 2022 - Aug 2022*
 
 Personalized Python tutoring with exceptional student outcomes
 
@@ -114,6 +120,7 @@ Personalized Python tutoring with exceptional student outcomes
 ---
 
 ### 💻 **Shenyang Viken IT Co. Ltd.** - Full-stack Developer
+*Nov 2021 - Dec 2021*
 
 Internship developing enterprise-level platform solutions
 
