@@ -13,13 +13,13 @@
 ## Table of Contents
 
 - [🔭 What I'm working on](#-what-i-m-working-on)
-- [📚 Education](#-education)
+- [🌱 Currently learning](#-currently-learning)
 - [💼 Experience Highlights](#-experience-highlights)
+- [📚 Education](#-education)
+- [🧰 Tech Stack](#-tech-stack)
 - [✨ Fun Facts](#-fun-facts)
 - [🕰️ My Tech Journey](#-my-tech-journey)
-- [🌱 Currently learning](#-currently-learning)
 - [💼 Projects](#-projects)
-- [🧰 Tech Stack](#-tech-stack)
 
 
 ## 🔭 What I'm working on
@@ -29,52 +29,11 @@
 - 🌍 Developing **decentralized apps**
 
 
-## 📚 Education
+## 🌱 Currently learning
 
-### MSc Computer Science, **University of Warwick**
-*Sep 2023 - Dec 2024*
-
-Under the supervision of Professor of Security Engineering, Prof. Feng Hao; Proposed and implemented RSA/AES based E2EE communication for WeChat.
-- Supervised by Prof. Feng Hao (Security Engineering)
-- Proposed and implemented RSA/AES based E2EE communication for WeChat
-
-**Skills:** Security Engineering, Cryptography, End-to-End Encryption
-
----
-
-### BSc Computer Science, **Dalhousie University**
-*Sep 2019 - May 2023*
-
-Specialized in Communication Technology and Cybersecurity with Certificate. Grade: 3.76/4.3 Distinction.
-- Specialized in Communication Technology and Cybersecurity with Certificate
-- Grade: 3.76/4.3 Distinction
-
-**Skills:** Machine Learning, React.js, Express.js, Front-End Development, SQL, Next.js, Java, Web Framework, Material-UI, Algorithms, Microsoft Excel, MongoDB, Git, Linux, AngularJS
-
----
-
-### Exchange Student, Electrical Engineering, **City University of Hong Kong**
-*Jan 2022 - Jun 2022*
-
-Focused on developing skills in Data Science and Electrical Engineering; Received First runner-up in CityHack 2022 as an exchange student.
-- CityHack 2022 First Runner-up
-- Focused on Data Science and Electrical Engineering
-
-**Skills:** Web Crawling, MySQL, LaTeX, Front-End Development, Python, HTML, Java, Microsoft Excel, Overleaf, PHP, CSS
-
----
-
-### High School Diploma, **Shenyang No.2 High School Sino-Canadian Program**
-*Sep 2016 - Jun 2019*
-
-Studied under Nova Scotia's education curriculum and was taught by certified Nova Scotian & international teachers.
-- Studied under Nova Scotia's education curriculum
-- Taught by certified Nova Scotian & international teachers
-
-**Skills:** English, Mathematics, Science, International Curriculum
-
----
-
+- 🛠️ **Rust** for blazing-fast backend systems
+- ☁️ Cloud-native DevOps with **Docker** + **Kubernetes**
+- 🔐 Security engineering for scalable systems
 
 
 ## 💼 Experience Highlights
@@ -168,6 +127,81 @@ Internship developing enterprise-level platform solutions
 
 
 
+## 📚 Education
+
+### MSc Computer Science, **University of Warwick**
+*Sep 2023 - Dec 2024*
+
+Under the supervision of Professor of Security Engineering, Prof. Feng Hao; Proposed and implemented RSA/AES based E2EE communication for WeChat.
+- Supervised by Prof. Feng Hao (Security Engineering)
+- Proposed and implemented RSA/AES based E2EE communication for WeChat
+
+**Skills:** Security Engineering, Cryptography, End-to-End Encryption
+
+---
+
+### BSc Computer Science, **Dalhousie University**
+*Sep 2019 - May 2023*
+
+Specialized in Communication Technology and Cybersecurity with Certificate. Grade: 3.76/4.3 Distinction.
+- Specialized in Communication Technology and Cybersecurity with Certificate
+- Grade: 3.76/4.3 Distinction
+
+**Skills:** Machine Learning, React.js, Express.js, Front-End Development, SQL, Next.js, Java, Web Framework, Material-UI, Algorithms, Microsoft Excel, MongoDB, Git, Linux, AngularJS
+
+---
+
+### Exchange Student, Electrical Engineering, **City University of Hong Kong**
+*Jan 2022 - Jun 2022*
+
+Focused on developing skills in Data Science and Electrical Engineering; Received First runner-up in CityHack 2022 as an exchange student.
+- CityHack 2022 First Runner-up
+- Focused on Data Science and Electrical Engineering
+
+**Skills:** Web Crawling, MySQL, LaTeX, Front-End Development, Python, HTML, Java, Microsoft Excel, Overleaf, PHP, CSS
+
+---
+
+### High School Diploma, **Shenyang No.2 High School Sino-Canadian Program**
+*Sep 2016 - Jun 2019*
+
+Studied under Nova Scotia's education curriculum and was taught by certified Nova Scotian & international teachers.
+- Studied under Nova Scotia's education curriculum
+- Taught by certified Nova Scotian & international teachers
+
+**Skills:** English, Mathematics, Science, International Curriculum
+
+---
+
+
+
+## 🧰 Tech Stack
+
+### Languages
+
+`JavaScript` `Python` `Go` `Dart` `Java`
+
+### Frontend
+
+`React` `Flutter` `Tailwind CSS`
+
+### Backend
+
+`Node.js` `Nest.js` `GraphQL` `REST`
+
+### DevOps
+
+`Docker` `Kubernetes` `GitLab CI/CD` `AWS` `Azure`
+
+### Database
+
+`MongoDB` `MySQL`
+
+### Testing
+
+`Jest` `Postman`
+
+
 ## ✨ Fun Facts
 
 - 💬 Fluent in Mandarin & English
@@ -225,13 +259,6 @@ Built my first **Rust + Solana/Koii decentralized app**
 
 
 **...The journey continues. 🚀**
-
-
-## 🌱 Currently learning
-
-- 🛠️ **Rust** for blazing-fast backend systems
-- ☁️ Cloud-native DevOps with **Docker** + **Kubernetes**
-- 🔐 Security engineering for scalable systems
 
 
 ## 💼 Projects
@@ -848,33 +875,6 @@ The HuffmanCode repository showcases a Java implementation of Huffman Tree and H
 
 ---
 
-
-
-## 🧰 Tech Stack
-
-### Languages
-
-`JavaScript` `Python` `Go` `Dart` `Java`
-
-### Frontend
-
-`React` `Flutter` `Tailwind CSS`
-
-### Backend
-
-`Node.js` `Nest.js` `GraphQL` `REST`
-
-### DevOps
-
-`Docker` `Kubernetes` `GitLab CI/CD` `AWS` `Azure`
-
-### Database
-
-`MongoDB` `MySQL`
-
-### Testing
-
-`Jest` `Postman`
 
 
 ---
