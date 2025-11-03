@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm Herman!
+# Herman Liang
 
-*🚀 Full Stack Developer | 🧠 AI Enthusiast | 📍 Based in Halifax, NS & Toronto, ON*
+*Full Stack Developer*
 
 > "Build what matters. Break what needs fixing. Learn endlessly."
 > — Herman
@@ -9,6 +9,7 @@
 - **Website**: [https://hermanyiqunliang.com](https://hermanyiqunliang.com)
 - **Email**: Hermanyiqunliang@gmail.com
 - **LinkedIn**: [Profile](https://www.linkedin.com/in/liang-yiqun/)
+- **Address**: 805-16 Rooksview Lane, Bedford, Nova Scotia
 
 ## Table of Contents
 
@@ -886,4 +887,4 @@ The HuffmanCode repository showcases a Java implementation of Huffman Tree and H
 
 ---
 
-*This README was automatically generated from YAML configuration files on 7/22/2025*
+*This README was automatically generated from YAML configuration files on 11/3/2025*
