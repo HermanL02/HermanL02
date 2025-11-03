@@ -2,7 +2,7 @@
 
 *Full Stack Developer*
 
-> "Build what matters. Break what needs fixing. Learn endlessly."
+> "Kindness always come back in the ways we don't expect."
 > — Herman
 
 ### Contact
