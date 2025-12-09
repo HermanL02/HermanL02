@@ -1,5 +1,7 @@
 # Herman Liang
 
+[![wakatime](https://wakatime.com/badge/user/de28d07d-216c-456d-89aa-5f4a5954eda3.svg)](https://wakatime.com/@de28d07d-216c-456d-89aa-5f4a5954eda3)
+
 *Full Stack Developer*
 
 > "Kindness always come back in the ways we don't expect."
@@ -887,4 +889,4 @@ The HuffmanCode repository showcases a Java implementation of Huffman Tree and H
 
 ---
 
-*This README was automatically generated from YAML configuration files on 11/3/2025*
+*This README was automatically generated from YAML configuration files on 12/9/2025*
