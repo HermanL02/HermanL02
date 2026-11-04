@@ -1,0 +1,24 @@
+name: Wakapi stats
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@v0.3.1
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
+          API_BASE_URL: https://codetime.hermanyiqunliang.com/api/compat/wakatime
+          SHOW_TITLE: "true"
+          TIME_RANGE: last_30_days
+          LANG_COUNT: "6"
+          SHOW_TOTAL: "true"
+          IGNORED_LANGUAGES: "Unknown Text"
+          COMMIT_MESSAGE: "Update coding stats from Wakapi"

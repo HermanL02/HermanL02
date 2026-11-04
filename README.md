@@ -2,6 +2,11 @@
 
 [![wakatime](https://wakatime.com/badge/user/de28d07d-216c-456d-89aa-5f4a5954eda3.svg)](https://wakatime.com/@de28d07d-216c-456d-89aa-5f4a5954eda3) [![wakapi](https://codetime.hermanyiqunliang.com/api/badge/HermanL02/interval:any?label=wakapi)](https://codetime.hermanyiqunliang.com)
 
+### ⏱️ Coding activity (last 30 days)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 *Full Stack Developer*
 
 > "Kindness always come back in the ways we don't expect."
