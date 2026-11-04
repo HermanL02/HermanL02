@@ -2,7 +2,7 @@
 import base64, json, os, re, urllib.request
 
 BASE = "https://codetime.hermanyiqunliang.com/api/compat/wakatime/v1"
-RANGE = "last_30_days"
+RANGE = "all_time"
 IGNORED = {"Unknown", "Text", "Other"}
 TOP_N = 6
 BAR = 25
