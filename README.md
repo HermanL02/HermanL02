@@ -7,14 +7,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 181 hrs 0 mins
+Total: 181 hrs 0 mins  ·  Daily avg: 6 hrs 2 mins
 
-Markdown      51 hrs 15 mins  ███████░░░░░░░░░░░░░░░░░░   28.32 %
-Typescript    30 hrs 50 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.04 %
-Bash          18 hrs 46 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
-Unknown       15 hrs 50 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
-TSX           15 hrs 14 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
-Text          13 hrs 42 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
+💬 Languages
+Markdown     51 hrs 15 mins  ███████░░░░░░░░░░░░░░░░░░   28.3 %
+Typescript   30 hrs 50 mins  ████░░░░░░░░░░░░░░░░░░░░░   17.0 %
+Bash         18 hrs 46 mins  ███░░░░░░░░░░░░░░░░░░░░░░   10.4 %
+TSX          15 hrs 14 mins  ██░░░░░░░░░░░░░░░░░░░░░░░    8.4 %
+Python       12 hrs 13 mins  ██░░░░░░░░░░░░░░░░░░░░░░░    6.8 %
+Javascript   10 hrs 55 mins  ██░░░░░░░░░░░░░░░░░░░░░░░    6.0 %
+
+🛠️ Editors
+Claude code   90 hrs 16 mins  ████████████░░░░░░░░░░░░░   49.9 %
+Claude        82 hrs 53 mins  ███████████░░░░░░░░░░░░░░   45.8 %
+Zcode          7 hrs 52 mins  █░░░░░░░░░░░░░░░░░░░░░░░░    4.3 %
 ```
 
 <!--END_SECTION:waka-->
