@@ -16,7 +16,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
           API_BASE_URL: https://codetime.hermanyiqunliang.com/api/compat/wakatime
-          SHOW_TITLE: "true"
+          SHOW_TITLE: "false"
           TIME_RANGE: last_30_days
           LANG_COUNT: "6"
           SHOW_TOTAL: "true"
