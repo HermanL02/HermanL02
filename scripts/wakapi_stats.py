@@ -6,6 +6,7 @@ RANGE = "all_time"
 IGNORED = {"Unknown", "Text", "Other"}
 TOP_N = 6
 BAR = 25
+ALIASES = {"Github-estimate": "Claude code"}
 
 key = os.environ["WAKAPI_API_KEY"]
 req = urllib.request.Request(
@@ -18,7 +19,21 @@ def bar(pct):
     filled = round(pct / 100 * BAR)
     return "█" * filled + "░" * (BAR - filled)
 
+def merge(items):
+    """Fold aliased names into their target and recompute text/percent."""
+    totals = {}
+    for i in items:
+        name = ALIASES.get(i["name"], i["name"])
+        totals[name] = totals.get(name, 0) + float(i["total_seconds"])
+    grand = sum(totals.values()) or 1
+    out = []
+    for name, secs in sorted(totals.items(), key=lambda kv: -kv[1]):
+        h, m = divmod(int(secs) // 60, 60)
+        out.append({"name": name, "text": f"{h} hrs {m} mins", "percent": secs / grand * 100})
+    return out
+
 def section(title, items):
+    items = merge(items)
     items = [i for i in items if i["name"] not in IGNORED and i["percent"] >= 0.1][:TOP_N]
     if not items:
         return ""
