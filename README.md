@@ -19,11 +19,10 @@ Python        37 hrs 7 mins  ░░░░░░░░░░░░░░░░░
 
 🛠️ Editors
 Claude code      1316 hrs 58 mins  ██████████████████░░░░░░░   70.8 %
-Cursor           313 hrs 19 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.8 %
-Claude           145 hrs 11 mins  ██░░░░░░░░░░░░░░░░░░░░░░░    7.8 %
-Github-estimate   76 hrs 27 mins  █░░░░░░░░░░░░░░░░░░░░░░░░    4.1 %
-Zcode              7 hrs 58 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░    0.4 %
-Codex cli           0 hrs 0 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░    0.0 %
+Cursor            313 hrs 19 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.8 %
+Claude            145 hrs 11 mins  ██░░░░░░░░░░░░░░░░░░░░░░░    7.8 %
+Github-estimate    76 hrs 27 mins  █░░░░░░░░░░░░░░░░░░░░░░░░    4.1 %
+Zcode               7 hrs 58 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░    0.4 %
 ```
 
 <!--END_SECTION:waka-->
