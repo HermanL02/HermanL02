@@ -7,7 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total: 1860 hrs 21 mins  ·  Daily avg: 3 hrs 45 mins
+Total: 1860 hrs 24 mins
 
 💬 Languages
 Typescript   694 hrs 0 mins  █████████░░░░░░░░░░░░░░░░   37.3 %
@@ -20,7 +20,7 @@ Python        37 hrs 6 mins  ░░░░░░░░░░░░░░░░░
 🛠️ Editors
 Claude code  1393 hrs 24 mins  ███████████████████░░░░░░   74.9 %
 Cursor        313 hrs 19 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.8 %
-Claude        145 hrs 20 mins  ██░░░░░░░░░░░░░░░░░░░░░░░    7.8 %
+Claude        145 hrs 22 mins  ██░░░░░░░░░░░░░░░░░░░░░░░    7.8 %
 Zcode           7 hrs 57 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░    0.4 %
 ```
 
