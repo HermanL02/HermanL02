@@ -12,13 +12,17 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@v0.3.1
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
-          API_BASE_URL: https://codetime.hermanyiqunliang.com/api/compat/wakatime
-          SHOW_TITLE: "false"
-          TIME_RANGE: last_30_days
-          LANG_COUNT: "6"
-          SHOW_TOTAL: "true"
-          IGNORED_LANGUAGES: "Unknown Text"
-          COMMIT_MESSAGE: "Update coding stats from Wakapi"
+          python-version: "3.12"
+      - run: python scripts/wakapi_stats.py
+        env:
+          WAKAPI_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
+      - name: Commit if changed
+        run: |
+          git diff --quiet README.md && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Update coding stats from Wakapi"
+          git push
