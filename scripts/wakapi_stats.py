@@ -45,7 +45,7 @@ def section(title, items):
     ]
     return f"{title}\n" + "\n".join(rows) + "\n"
 
-parts = [f"Total: {data['human_readable_total']}  ·  Daily avg: {data.get('human_readable_daily_average', 'n/a')}\n"]
+parts = [f"Total: {data['human_readable_total']}\n"]
 parts.append(section("💬 Languages", data.get("languages", [])))
 parts.append(section("🛠️ Editors", data.get("editors", [])))
 block = "\n".join(p for p in parts if p)
