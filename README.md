@@ -5,6 +5,18 @@
 ### ⏱️ Coding activity (last 30 days)
 
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 181 hrs 0 mins
+
+Markdown      51 hrs 15 mins  ███████░░░░░░░░░░░░░░░░░░   28.32 %
+Typescript    30 hrs 50 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.04 %
+Bash          18 hrs 46 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
+Unknown       15 hrs 50 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
+TSX           15 hrs 14 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
+Text          13 hrs 42 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
+```
+
 <!--END_SECTION:waka-->
 
 *Full Stack Developer*
