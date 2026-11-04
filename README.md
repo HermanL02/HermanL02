@@ -10,19 +10,18 @@
 Total: 1860 hrs 12 mins  ·  Daily avg: 3 hrs 45 mins
 
 💬 Languages
-Typescript   694 hrs 1 mins  █████████░░░░░░░░░░░░░░░░   37.3 %
+Typescript   694 hrs 0 mins  █████████░░░░░░░░░░░░░░░░   37.3 %
 Markdown    335 hrs 17 mins  █████░░░░░░░░░░░░░░░░░░░░   18.0 %
-TSX         168 hrs 38 mins  ██░░░░░░░░░░░░░░░░░░░░░░░    9.1 %
-Bash         65 hrs 32 mins  █░░░░░░░░░░░░░░░░░░░░░░░░    3.5 %
-Javascript   40 hrs 24 mins  █░░░░░░░░░░░░░░░░░░░░░░░░    2.2 %
-Python        37 hrs 7 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░    2.0 %
+TSX         168 hrs 37 mins  ██░░░░░░░░░░░░░░░░░░░░░░░    9.1 %
+Bash         65 hrs 31 mins  █░░░░░░░░░░░░░░░░░░░░░░░░    3.5 %
+Javascript   40 hrs 23 mins  █░░░░░░░░░░░░░░░░░░░░░░░░    2.2 %
+Python        37 hrs 6 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░    2.0 %
 
 🛠️ Editors
-Claude code      1316 hrs 58 mins  ██████████████████░░░░░░░   70.8 %
-Cursor            313 hrs 19 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.8 %
-Claude            145 hrs 11 mins  ██░░░░░░░░░░░░░░░░░░░░░░░    7.8 %
-Github-estimate    76 hrs 27 mins  █░░░░░░░░░░░░░░░░░░░░░░░░    4.1 %
-Zcode               7 hrs 58 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░    0.4 %
+Claude code  1393 hrs 24 mins  ███████████████████░░░░░░   74.9 %
+Cursor        313 hrs 19 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.8 %
+Claude        145 hrs 11 mins  ██░░░░░░░░░░░░░░░░░░░░░░░    7.8 %
+Zcode           7 hrs 57 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░    0.4 %
 ```
 
 <!--END_SECTION:waka-->
