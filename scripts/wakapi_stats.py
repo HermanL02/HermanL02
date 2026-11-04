@@ -19,12 +19,13 @@ def bar(pct):
     return "█" * filled + "░" * (BAR - filled)
 
 def section(title, items):
-    items = [i for i in items if i["name"] not in IGNORED][:TOP_N]
+    items = [i for i in items if i["name"] not in IGNORED and i["percent"] >= 0.1][:TOP_N]
     if not items:
         return ""
     width = max(len(i["name"]) for i in items)
+    tw = max(len(i["text"]) for i in items)
     rows = [
-        f"{i['name']:<{width}}  {i['text']:>15}  {bar(i['percent'])}  {i['percent']:5.1f} %"
+        f"{i['name']:<{width}}  {i['text']:>{tw}}  {bar(i['percent'])}  {i['percent']:5.1f} %"
         for i in items
     ]
     return f"{title}\n" + "\n".join(rows) + "\n"
