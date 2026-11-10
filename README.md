@@ -7,20 +7,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total: 1873 hrs 43 mins
+Total: 1881 hrs 3 mins
 
 💬 Languages
-Typescript  698 hrs 26 mins  █████████░░░░░░░░░░░░░░░░   37.3 %
-Markdown    339 hrs 10 mins  █████░░░░░░░░░░░░░░░░░░░░   18.1 %
-TSX         169 hrs 36 mins  ██░░░░░░░░░░░░░░░░░░░░░░░    9.1 %
-Bash         66 hrs 16 mins  █░░░░░░░░░░░░░░░░░░░░░░░░    3.5 %
+Typescript  700 hrs 19 mins  █████████░░░░░░░░░░░░░░░░   37.2 %
+Markdown    341 hrs 25 mins  █████░░░░░░░░░░░░░░░░░░░░   18.2 %
+TSX         170 hrs 17 mins  ██░░░░░░░░░░░░░░░░░░░░░░░    9.1 %
+Bash         66 hrs 40 mins  █░░░░░░░░░░░░░░░░░░░░░░░░    3.5 %
 Javascript   40 hrs 59 mins  █░░░░░░░░░░░░░░░░░░░░░░░░    2.2 %
-Python       37 hrs 12 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░    2.0 %
+Python       37 hrs 38 mins  █░░░░░░░░░░░░░░░░░░░░░░░░    2.0 %
 
 🛠️ Editors
-Claude code  1393 hrs 24 mins  ███████████████████░░░░░░   74.4 %
+Claude code  1393 hrs 24 mins  ███████████████████░░░░░░   74.1 %
 Cursor        313 hrs 19 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.7 %
-Claude        158 hrs 42 mins  ██░░░░░░░░░░░░░░░░░░░░░░░    8.5 %
+Claude         166 hrs 2 mins  ██░░░░░░░░░░░░░░░░░░░░░░░    8.8 %
 Zcode           7 hrs 57 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░    0.4 %
 ```
 
